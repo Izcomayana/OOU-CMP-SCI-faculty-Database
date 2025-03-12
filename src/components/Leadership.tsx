@@ -1,7 +1,7 @@
 const Leadership = () => {
   return (
     <section>
-      <div className="mt-30 mb-20 text-[#21234F]">
+      <div className="mt-30 mb-20 text-[#21234F] saira">
         <h1 className="text-3xl font-bold text-center">Faculty Leadership</h1>
 
         <div className="flex flex-row flex-wrap justify-between gap-5 mt-10">
