@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Departments from "./components/Departments";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Leadership from "./components/Leadership";
@@ -7,7 +8,7 @@ import Leadership from "./components/Leadership";
 function App() {
   return (
     <>
-      <div className="hidden lg:block">
+      <div className="hidden scrollbar lg:block">
         <Header />
         <Hero />
         <div className="container mx-auto">
@@ -15,6 +16,7 @@ function App() {
           <Leadership />
           <Departments />
         </div>
+        <Footer />
       </div>
 
       <div className="block lg:hidden">

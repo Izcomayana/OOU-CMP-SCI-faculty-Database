@@ -9,7 +9,7 @@ const Header = () => {
                 <img src="/sch-logo.png" alt="OOU logo" className="w-full" />
               </div>
               <div>
-                <p className="text-sm saira">
+                <p className="ml-2 text-sm saira">
                   Olabisi <br /> Onabanjo University
                 </p>
               </div>
