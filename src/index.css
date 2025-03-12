@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 #root {
-  background-image: url(/src/assets/Bacground.png);
+  background-image: url(/Bacground.png);
 }
 
 .saira {
