@@ -1,6 +1,8 @@
 import About from "./components/About";
+import Departments from "./components/Departments";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Leadership from "./components/Leadership";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
         <Hero />
         <div className="container mx-auto">
           <About />
+          <Leadership />
+          <Departments />
         </div>
       </div>
 
