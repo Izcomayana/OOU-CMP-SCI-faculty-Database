@@ -1,3 +1,4 @@
+import About from "./components/About";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 
@@ -7,6 +8,9 @@ function App() {
       <div className="hidden lg:block">
         <Header />
         <Hero />
+        <div className="container mx-auto">
+          <About />
+        </div>
       </div>
 
       <div className="block lg:hidden">
