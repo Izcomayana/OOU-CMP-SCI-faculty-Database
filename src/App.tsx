@@ -1,27 +1,30 @@
-import About from "./components/About";
-import Departments from "./components/Departments";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Departments from "./pages/Departments";
+import NotFound from "./pages/NotFound";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Leadership from "./components/Leadership";
 
 function App() {
   return (
     <>
-      <div className="hidden scrollbar lg:block">
-        <Header />
-        <Hero />
-        <div className="container mx-auto">
-          <About />
-          <Leadership />
-          <Departments />
-        </div>
-        <Footer />
-      </div>
-
-      <div className="block lg:hidden">
-        mobile and tab design still dey cook
-      </div>
+    <div className="hidden scrollbar lg:block">
+      <Router>
+      <Header />
+      <Hero />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/departments" element={<Departments />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+    </Router>
+    <Footer />
+    </div>
+    
+    <div className="block lg:hidden">
+      mobile and tab not ready yet
+    </div>
     </>
   );
 }

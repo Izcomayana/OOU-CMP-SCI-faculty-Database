@@ -19,7 +19,25 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
+              <p className="font-medium text-2xl">Mubarak K.</p>
+              <p>Dean</p>
+            </div>
+          </div>
+          <div className="mb-10">
+            <div className="rounded-md w-[19rem]">
+              <img src="/leader.png" alt="Leader" className="w-full" />
+            </div>
+            <div className="mt-5">
+              <p className="font-medium text-2xl">Adepeju O.</p>
+              <p>Dean</p>
+            </div>
+          </div>
+          <div className="mb-10">
+            <div className="rounded-md w-[19rem]">
+              <img src="/leader.png" alt="Leader" className="w-full" />
+            </div>
+            <div className="mt-5">
+              <p className="font-medium text-2xl">Newton</p>
               <p>Dean</p>
             </div>
           </div>
@@ -37,7 +55,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
+              <p className="font-medium text-2xl">Mubarak K.</p>
               <p>Dean</p>
             </div>
           </div>
@@ -46,7 +64,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
+              <p className="font-medium text-2xl">Adepeju O.</p>
               <p>Dean</p>
             </div>
           </div>
@@ -55,25 +73,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
-              <p>Dean</p>
-            </div>
-          </div>
-          <div className="mb-10">
-            <div className="rounded-md w-[19rem]">
-              <img src="/leader.png" alt="Leader" className="w-full" />
-            </div>
-            <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
-              <p>Dean</p>
-            </div>
-          </div>
-          <div className="mb-10">
-            <div className="rounded-md w-[19rem]">
-              <img src="/leader.png" alt="Leader" className="w-full" />
-            </div>
-            <div className="mt-5">
-              <p className="font-medium text-2xl">Iremide O.</p>
+              <p className="font-medium text-2xl">Newton</p>
               <p>Dean</p>
             </div>
           </div>
