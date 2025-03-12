@@ -4,6 +4,18 @@
 
 @custom-variant dark (&:is(.dark *));
 
+#root {
+  background-image: url(/Bacground.png);
+}
+
+.saira {
+  font-family: "Saira", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 :root {
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);

@@ -1,11 +1,20 @@
-import { Button } from "@/components/ui/button";
+import About from "./components/About";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <div className="flex flex-col items-center justify-center min-h-svh">
-        <Button>Click me</Button>
+      <div className="hidden lg:block">
+        <Header />
+        <Hero />
+        <div className="container mx-auto">
+          <About />
+        </div>
+      </div>
+
+      <div className="block lg:hidden">
+        mobile and tab design still dey cook
       </div>
     </>
   );
