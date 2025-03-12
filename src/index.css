@@ -16,6 +16,28 @@
     "wdth" 100;
 }
 
+@layer utilities {
+  .scrollbar::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: transparent;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    background: #21234F;
+    border-radius: 100vh;
+    border: 2px solid rgba(0, 0, 0, 0.156);
+    height: 7.5rem;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #21234F;
+  }
+}
+
 :root {
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
