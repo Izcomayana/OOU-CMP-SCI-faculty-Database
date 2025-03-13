@@ -4,27 +4,23 @@ import Departments from "./pages/Departments";
 import NotFound from "./pages/NotFound";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
 
 function App() {
   return (
     <>
-    <div className="hidden scrollbar lg:block">
-      <Router>
-      <Header />
-      <Hero />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/departments" element={<Departments />} />
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    </Router>
-    <Footer />
-    </div>
-    
-    <div className="block lg:hidden">
-      mobile and tab not ready yet
-    </div>
+      <div className="hidden scrollbar lg:block">
+        <Router>
+          <Header />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/departments" element={<Departments />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </Router>
+        <Footer />
+      </div>
+
+      <div className="block lg:hidden">mobile and tab not ready yet</div>
     </>
   );
 }

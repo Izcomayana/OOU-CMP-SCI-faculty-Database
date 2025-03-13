@@ -19,8 +19,12 @@ const Header = () => {
 
             <nav className="w-[40%]">
               <ul className="saira flex justify-between">
-                <li className="transition hover:text-[#bfc2f2]"><Link to="/">Home</Link></li>
-                <li className="transition hover:text-[#bfc2f2]"><Link to="/departments">Departments</Link></li>
+                <li className="transition hover:text-[#bfc2f2]">
+                  <Link to="/">Home</Link>
+                </li>
+                <li className="transition hover:text-[#bfc2f2]">
+                  <Link to="/departments">Departments</Link>
+                </li>
                 <li className="transition hover:text-[#bfc2f2]">Staffs</li>
                 <li className="transition hover:text-[#bfc2f2]">Contacts</li>
               </ul>
