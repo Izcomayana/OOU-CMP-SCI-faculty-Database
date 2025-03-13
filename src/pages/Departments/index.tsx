@@ -20,20 +20,69 @@ const Departments = () => {
           details2="To be the foremost college known for development of world-class human and materials in the fields of sciences."
         />
 
-        <div className="my-20 saira">
+        <div className="my-40 saira">
           <h1 className="text-3xl font-semibold text-center">Staff</h1>
-          <div className="mt-10 flex justify-between">
+          <div className="mt-20 flex justify-between">
             <div className="">
               <div className="rounded-md w-[19rem]">
                 <img src="/leader.png" alt="Leader" className="w-full" />
               </div>
               <div className="mt-5">
                 <p className="font-medium text-2xl">Iremide O.</p>
-                <p>Dean</p>
+                <p>HOD</p>
               </div>
             </div>
-            <div className="flex flex-col gap-5"></div>
-            <div className=""></div>
+            <div className="flex flex-col gap-5 w-1/3">
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-5 w-1/3">
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+              <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
+                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="mt-2">Lecturer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="mb-40 saira">
+          <h1 className="text-3xl font-semibold text-center">Facilities</h1>
+          <div className="mt-20 flex justify-between">
+            <div className="bg-white border rounded-md p-24 font-bold text-xl text-[#00000098] shadow-2xl">
+              HALLS
+            </div>
+            <div className="bg-white border rounded-md p-24 font-bold text-xl text-[#00000098] shadow-2xl">
+              LABORATORIES
+            </div>
+            <div className="bg-white border rounded-md p-24 font-bold text-xl text-[#00000098] shadow-2xl">
+              LIBRARIES
+            </div>
           </div>
         </div>
       </div>
