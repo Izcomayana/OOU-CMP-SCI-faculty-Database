@@ -1,4 +1,18 @@
-const Departments = () => {
+import { Link } from "react-router-dom";
+
+const departments = [
+  { id: "chemical-science", name: "Chemical Science" },
+  { id: "computer-science", name: "Computer Science" },
+  { id: "geology", name: "Geology" },
+  { id: "mathematics", name: "Mathematics" },
+  { id: "microbiology", name: "Microlobiology" },
+  { id: "plant-science", name: "Plant Science" },
+  { id: "physics", name: "Physics" },
+  { id: "statistics", name: "Statistics" },
+  { id: "zoology", name: "Zoology" },
+];
+
+const Departments: React.FC = () => {
   return (
     <section>
       <div className="my-20 saira">
@@ -13,96 +27,29 @@ const Departments = () => {
         </div>
 
         <div className="flex flex-row flex-wrap justify-between gap-5 mt-20 text-white">
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
+          {departments.map((dept) => (
+            <li key={dept.id}>
+              <Link
+                to={`/departments/${dept.id}`}
+                className="font-medium text-2xl"
+              >
+                <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
+                  <div className="relative">
+                    <img
+                      src="/departments.png"
+                      alt="Leader"
+                      className="w-full"
+                    />
+                    <div className="absolute inset-0 bg-black opacity-10 transition-all hover:opacity-40"></div>
+                  </div>
 
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Chemical Science</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Computer Science</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Geology</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Mathematics</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Microbiology</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Plant Science</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Physics</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Statistics</p>
-            </div>
-          </div>
-          <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
-            <div className="relative">
-              <img src="/departments.png" alt="Leader" className="w-full" />
-              <div className="absolute inset-0 bg-black opacity-10"></div>
-            </div>
-
-            <div className="absolute bottom-3 left-3 text-white">
-              <p className="font-medium text-2xl">Zoology</p>
-            </div>
-          </div>
+                  <div className="absolute bottom-3 left-3 text-white">
+                    {dept.name}
+                  </div>
+                </div>
+              </Link>
+            </li>
+          ))}
         </div>
       </div>
     </section>
