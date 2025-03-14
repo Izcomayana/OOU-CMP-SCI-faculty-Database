@@ -1,7 +1,7 @@
 const Departments = () => {
   return (
     <section>
-      <div className="mt-30 mb-20 saira">
+      <div className="my-20 saira">
         <div className="text-center text-[#21234F]">
           <h1 className="text-3xl font-bold text-center mb-5">Departments</h1>
           <p className="text-xl w-5/6 mx-auto">
@@ -12,7 +12,7 @@ const Departments = () => {
           </p>
         </div>
 
-        <div className="flex flex-row flex-wrap justify-between gap-5 mt-10 text-white">
+        <div className="flex flex-row flex-wrap justify-between gap-5 mt-20 text-white">
           <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
             <div className="relative">
               <img src="/departments.png" alt="Leader" className="w-full" />
