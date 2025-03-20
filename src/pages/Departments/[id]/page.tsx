@@ -48,9 +48,22 @@ const Department: React.FC = () => {
   if (!department)
     return <h1 className="text-center text-red-500">Department not found</h1>;
 
+  // Automatically add a line break after the first word
+  const formattedTitle = (() => {
+    const words = department.name.split(" ");
+    return (
+      <>
+        {words[0]} <br /> {words.slice(1).join(" ")}
+      </>
+    );
+  })();
+
+  if (!department)
+    return <h1 className="text-center text-red-500">Department not found</h1>;
+
   return (
     <>
-      <Hero title={<>{department.name}</>} details={"(Department)"} />
+      <Hero title={formattedTitle} details={"(Department)"} />
       <div className="container mx-auto p-4">
         {/* <h1 className="text-3xl font-bold">{department.name}</h1>
       <p className="text-lg mt-4">{department.description}</p> */}
@@ -73,15 +86,15 @@ const Department: React.FC = () => {
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Adepeju A.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Newton N.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Iremide O.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
             </div>
@@ -91,15 +104,15 @@ const Department: React.FC = () => {
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Adepeju A.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Newton N.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
               <div className="bg-white border p-4 shadow-2xl rounded-md w-full">
-                <p className="text-xl font-medium">Dr. Mubarak K.</p>
+                <p className="text-xl font-medium">Dr. Iremide O.</p>
                 <p className="mt-2">Lecturer</p>
               </div>
             </div>

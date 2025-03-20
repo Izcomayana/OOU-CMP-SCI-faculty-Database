@@ -1,3 +1,17 @@
+// import { Link } from "react-router-dom";
+
+// const staffs = [
+//   { id: 0, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 1, img:"/leader.png", name: "Mubarak K..", position: "Dean" },
+//   { id: 2, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 3, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 4, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 5, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 6, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 7, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+//   { id: 8, img:"/leader.png", name: "Iremide O.", position: "Dean" },
+// ];
+
 const Leadership = () => {
   return (
     <section>
@@ -28,7 +42,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Adepeju O.</p>
+              <p className="font-medium text-2xl">Adepeju A.</p>
               <p>Dean</p>
             </div>
           </div>
@@ -37,7 +51,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Newton</p>
+              <p className="font-medium text-2xl">Newton N.</p>
               <p>Dean</p>
             </div>
           </div>
@@ -64,7 +78,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Adepeju O.</p>
+              <p className="font-medium text-2xl">Adepeju A.</p>
               <p>Dean</p>
             </div>
           </div>
@@ -73,7 +87,7 @@ const Leadership = () => {
               <img src="/leader.png" alt="Leader" className="w-full" />
             </div>
             <div className="mt-5">
-              <p className="font-medium text-2xl">Newton</p>
+              <p className="font-medium text-2xl">Newton N.</p>
               <p>Dean</p>
             </div>
           </div>

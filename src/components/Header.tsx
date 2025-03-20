@@ -23,7 +23,8 @@ const Header = () => {
                   <Link to="/">Home</Link>
                 </li>
                 <li className="transition hover:text-[#bfc2f2]">
-                  <Link to="/departments">Departments</Link>
+                  Departments
+                  {/* <Link to="/departments">Departments</Link> */}
                 </li>
                 <li className="transition hover:text-[#bfc2f2]">Staffs</li>
                 <li className="transition hover:text-[#bfc2f2]">Contacts</li>
