@@ -1,0 +1,215 @@
+[
+  {
+    "id": 0,
+    "img": "/leader.png",
+    "name": "Odule TJ.",
+    "position": "Dean",
+    "email": "tola.odule@oouagoiwoye.edu.ng",
+    "bio": "Expert in organic chemistry with 20+ years of experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "phone": "+234 81 4189 8014",
+    "departmentId": "computer-science",
+    "education": [
+      "Diploma Data Processing (1991)",
+      "B.Sc. Computer Science (1997)",
+      "M.Sc. Computer Science (2005)",
+      "Ph.D. Computer Science (2016)"
+    ],
+    "research": {
+      "completed": [
+        "A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
+        "Implementing Data Communication Security through Public-key Cryptosystem and Digital Signature."
+      ],
+      "inProgress": [
+        "Hybrid Biometry: A Method for Checking Online Examination Malpractice in Tertiary Institutions",
+        "A Method for Enhancing Data Storage Security and Privacy in the Cloud",
+        "A Cryptographic Method for Securing Mobile Payments in a heterogeneous Malicious Environment",
+        "Secure Key Management in Heterogeneous Communication Environment"
+      ]
+    },
+    "awards": [],
+    "appointments": [
+      "Graduate Assistant (2002 - 2005)",
+      "Assistant Lecturer (2005 - 2008)",
+      "Lecturer II (2008 - 2011)",
+      "Lecturer I (2011 – date)"
+    ],
+    "publications": {
+      "thesis": [
+        "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
+      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+      ],
+      "published": [
+        "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
+      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+      ]
+    },
+    "professionalBodies": [
+      "Member, Nigeria Computer Society",
+      "Member, Nigeria Association of Mathematical Physics (NAMP)"
+    ],
+    "conferences": [
+      "UNU/IIS: Software Engineering School, UNILAG, Oct-Nov 2002",
+      "Nigerian Mathematical Society 24th Annual Conference, OOU, May 2005",
+      "1st National Science Conference, OOU, Feb 2008",
+      "NAMP 25th Annual Conference, OOU, Nov 2014",
+      "ICACSET 2014, Babcock University, Nov–Dec 2014",
+      "ICET 2016, Babcock University, Nov 2016",
+      "1st Faculty of Science Intl. Conference, OOU, May 2017",
+      "Women in Data Science Conference, OOU, June 2018",
+      "Early Career Researchers Summit, OOU, July 2019"
+    ]
+  },  
+  {
+    "id": 1,
+    "img": "/leader.png",
+    "name": "Dr. Mubarak K.",
+    "position": "HOD",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures."
+  },
+  {
+    "id": 2,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience."
+  },
+  {
+    "id": 3,
+    "img": "/leader.png",
+    "name": "Dr. Adepeju A",
+    "position": "Lecturer",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures."
+  },
+  {
+    "id": 4,
+    "img": "/leader.png",
+    "name": "Dr. Newton N.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience."
+  },
+  {
+    "id": 5,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience."
+  },
+  {
+    "id": 6,
+    "img": "/leader.png",
+    "name": "Dr. Adepeju A",
+    "position": "Lecturer",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures."
+  },
+  {
+    "id": 7,
+    "img": "/leader.png",
+    "name": "Dr. Newton N.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience."
+  },
+  {
+    "id": 8,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience."
+  },
+  {
+    "id": 9,
+    "img": "/leader.png",
+    "name": "Odule TJ.",
+    "position": "Dean",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.pre",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 10,
+    "img": "/leader.png",
+    "name": "Dr. Mubarak K.",
+    "position": "HOD",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 11,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 12,
+    "img": "/leader.png",
+    "name": "Dr. Adepeju A",
+    "position": "Lecturer",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 13,
+    "img": "/leader.png",
+    "name": "Dr. Newton N.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 14,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 15,
+    "img": "/leader.png",
+    "name": "Dr. Adepeju A",
+    "position": "Lecturer",
+    "email": "mubarak.k@univ.edu",
+    "bio": "Focuses on AI and data structures.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 16,
+    "img": "/leader.png",
+    "name": "Dr. Newton N.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
+  },
+  {
+    "id": 17,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
+  }
+]

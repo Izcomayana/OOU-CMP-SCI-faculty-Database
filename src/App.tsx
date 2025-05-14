@@ -1,7 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 // import Departments from "./pages/Departments";
-import Staffs from "./pages/Staffs";
+// import Staffs from "./pages/Staffs";
+import Staff from "./pages/Staffs/[name]/page";
 import Department from "./pages/Departments/[id]/page";
 import NotFound from "./pages/NotFound";
 import Footer from "./components/Footer";
@@ -17,7 +18,9 @@ function App() {
             <Route path="/" element={<Home />} />
             {/* <Route path="/departments" element={<Departments />} /> */}
             <Route path="/departments/:departmentId" element={<Department />} />
-            <Route path="/staffs" element={<Staffs />} />
+            {/* <Route path="/staffs" element={<Staffs />} />
+             */}
+            <Route path="/staffs/:staffName" element={<Staff />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Router>
