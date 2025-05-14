@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import Hero from "@/components/Hero";
 import { slugify } from "@/utils/slugify";
 import {
   Accordion,
@@ -64,7 +63,6 @@ const StaffPage: React.FC = () => {
 
   return (
     <>
-      <Hero title={staff.name} details={staff.position} />
       <div className="container mx-auto my-20 px-4 saira">
         <div className="flex justify-between items-center gap-16">
           <div className="flex flex-col justify-between gap-1">
@@ -85,9 +83,10 @@ const StaffPage: React.FC = () => {
             </a>
           </div>
 
-          <div className="">
+          <div className="flex flex-col justify-between gap-3">
+            <h2 className="text-lg font-bold text-[#21234F]">Profile</h2>
             <p className="">{staff.bio}</p>
-            <div className="w-70 flex justify-between gap-4 mt-10">
+            <div className="w-70 flex justify-between gap-4">
               <div className="bg-[#21234F] rounded-full w-12 h-12 text-center flex justify-center items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
