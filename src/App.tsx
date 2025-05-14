@@ -20,7 +20,7 @@ function App() {
             <Route path="/departments/:departmentId" element={<Department />} />
             {/* <Route path="/staffs" element={<Staffs />} />
              */}
-            <Route path="/staffs/:name" element={<Staff />} />
+            <Route path="/staffs/:staffName" element={<Staff />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Router>
