@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Contacts from "./pages/Contacts";
 import Staffs from "./pages/Staffs";
 import Staff from "./pages/Staffs/[name]/page";
-// import Departments from "./pages/Departments";
+import DepartmentsPage from "./pages/Departments";
 import Department from "./pages/Departments/[id]/page";
 import NotFound from "./pages/NotFound";
 import Footer from "./components/Footer";
@@ -19,7 +19,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/contacts" element={<Contacts />} />
-            {/* <Route path="/departments" element={<Departments />} /> */}
+            <Route path="/departments" element={<DepartmentsPage />} />
             <Route path="/departments/:departmentId" element={<Department />} />
             <Route path="/staffs" element={<Staffs />} />
             <Route path="/staffs/:staffName" element={<Staff />} />
