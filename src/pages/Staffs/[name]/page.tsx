@@ -74,16 +74,15 @@ const StaffPage: React.FC = () => {
               />
             </div>
             <div className="bg-[#EFEFEF] p-4">
-                          <h2 className="text-2xl font-semibold">{staff.name}</h2>
-            <p className="">{staff.phone}</p>
-            <a
-              href={`mailto:${staff.email}`}
-              className="text-sm text-blue-600 underline my-5 sm:text-base"
-            >
-              {staff.email && <>{staff.email}</>}
-            </a>
+              <h2 className="text-2xl font-semibold">{staff.name}</h2>
+              <p className="">{staff.phone}</p>
+              <a
+                href={`mailto:${staff.email}`}
+                className="text-sm text-blue-600 underline my-5 sm:text-base"
+              >
+                {staff.email && <>{staff.email}</>}
+              </a>
             </div>
-
           </div>
 
           <div className="flex flex-col justify-between gap-10">
@@ -147,7 +146,9 @@ const StaffPage: React.FC = () => {
               <AccordionContent>
                 {completedResearch.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2 text-gray-500">Completed</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      Completed
+                    </h4>
                     <ul className="list-disc ml-5 mb-2">
                       {completedResearch.map((item, i) => (
                         <li key={`rc-${i}`}>{item}</li>
@@ -158,7 +159,9 @@ const StaffPage: React.FC = () => {
 
                 {inProgressResearch.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2 text-gray-500">In Progress</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      In Progress
+                    </h4>
                     <ul className="list-disc ml-5">
                       {inProgressResearch.map((item, i) => (
                         <li key={`rp-${i}`}>{item}</li>
@@ -208,7 +211,9 @@ const StaffPage: React.FC = () => {
               <AccordionContent>
                 {thesis.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2 text-gray-500">Thesis/Dissertation:</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      Thesis/Dissertation:
+                    </h4>
                     <ul className="list-disc ml-5 mb-2">
                       {thesis.map((item, i) => (
                         <li key={`rc-${i}`}>{item}</li>

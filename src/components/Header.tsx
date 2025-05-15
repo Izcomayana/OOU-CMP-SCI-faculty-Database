@@ -29,7 +29,9 @@ const Header = () => {
                 <li className="transition hover:text-[#bfc2f2]">
                   <Link to="/staffs">Staffs</Link>
                 </li>
-                <li className="transition hover:text-[#bfc2f2]">Contacts</li>
+                <li className="transition hover:text-[#bfc2f2]">
+                  <Link to="/contacts">Contacts</Link>
+                </li>
               </ul>
             </nav>
           </div>
