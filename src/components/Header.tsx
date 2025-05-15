@@ -23,11 +23,14 @@ const Header = () => {
                   <Link to="/">Home</Link>
                 </li>
                 <li className="transition hover:text-[#bfc2f2]">
-                  Departments
-                  {/* <Link to="/departments">Departments</Link> */}
+                  <Link to="/departments">Departments</Link>
                 </li>
-                <li className="transition hover:text-[#bfc2f2]">Staffs</li>
-                <li className="transition hover:text-[#bfc2f2]">Contacts</li>
+                <li className="transition hover:text-[#bfc2f2]">
+                  <Link to="/staffs">Staffs</Link>
+                </li>
+                <li className="transition hover:text-[#bfc2f2]">
+                  <Link to="/contacts">Contacts</Link>
+                </li>
               </ul>
             </nav>
           </div>

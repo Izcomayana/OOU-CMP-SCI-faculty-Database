@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import Hero from "@/components/Hero";
 import { slugify } from "@/utils/slugify";
 import {
   Accordion,
@@ -64,10 +63,9 @@ const StaffPage: React.FC = () => {
 
   return (
     <>
-      <Hero title={staff.name} details={staff.position} />
       <div className="container mx-auto my-20 px-4 saira">
         <div className="flex justify-between items-center gap-16">
-          <div className="flex flex-col justify-between gap-1">
+          <div className="flex flex-col justify-between">
             <div className="w-70 h-80 rounded-sm">
               <img
                 src={staff.img}
@@ -75,19 +73,22 @@ const StaffPage: React.FC = () => {
                 className="w-full h-full object-cover"
               />
             </div>
-            <h2 className="text-2xl font-bold">{staff.name}</h2>
-            <p className="">{staff.phone}</p>
-            <a
-              href="mailto:oluwapelumisotoyinbo@gmail.com"
-              className="text-sm text-blue-600 underline sm:text-base"
-            >
-              {staff.email && <>{staff.email}</>}
-            </a>
+            <div className="bg-[#EFEFEF] p-4">
+              <h2 className="text-2xl font-semibold">{staff.name}</h2>
+              <p className="">{staff.phone}</p>
+              <a
+                href={`mailto:${staff.email}`}
+                className="text-sm text-blue-600 underline my-5 sm:text-base"
+              >
+                {staff.email && <>{staff.email}</>}
+              </a>
+            </div>
           </div>
 
-          <div className="">
-            <p className="">{staff.bio}</p>
-            <div className="w-70 flex justify-between gap-4 mt-10">
+          <div className="flex flex-col justify-between gap-10">
+            <h2 className="text-lg font-bold text-[#21234F]">Profile</h2>
+            <p className="leading-8">{staff.bio}</p>
+            <div className="w-70 flex justify-between gap-4">
               <div className="bg-[#21234F] rounded-full w-12 h-12 text-center flex justify-center items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -120,11 +121,11 @@ const StaffPage: React.FC = () => {
         <Accordion
           type="single"
           collapsible
-          className="w-full my-20 border-1 border-black px-2 rounded-md"
+          className="w-full my-20 border-1 border-gray-300 px-2 rounded-md"
         >
           {staff.education && (
             <AccordionItem value="education">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Education
               </AccordionTrigger>
               <AccordionContent>
@@ -139,13 +140,15 @@ const StaffPage: React.FC = () => {
 
           {staff.research && (
             <AccordionItem value="research">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Research
               </AccordionTrigger>
               <AccordionContent>
                 {completedResearch.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2">Completed</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      Completed
+                    </h4>
                     <ul className="list-disc ml-5 mb-2">
                       {completedResearch.map((item, i) => (
                         <li key={`rc-${i}`}>{item}</li>
@@ -156,7 +159,9 @@ const StaffPage: React.FC = () => {
 
                 {inProgressResearch.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2">In Progress</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      In Progress
+                    </h4>
                     <ul className="list-disc ml-5">
                       {inProgressResearch.map((item, i) => (
                         <li key={`rp-${i}`}>{item}</li>
@@ -170,7 +175,7 @@ const StaffPage: React.FC = () => {
 
           {staff.awards && staff.awards.length > 0 && (
             <AccordionItem value="awards">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Awards
               </AccordionTrigger>
               <AccordionContent>
@@ -185,7 +190,7 @@ const StaffPage: React.FC = () => {
 
           {staff.appointments && staff.appointments.length > 0 && (
             <AccordionItem value="appointments">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 University Appointments
               </AccordionTrigger>
               <AccordionContent>
@@ -200,13 +205,15 @@ const StaffPage: React.FC = () => {
 
           {staff.publications && (
             <AccordionItem value="publications">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Publications
               </AccordionTrigger>
               <AccordionContent>
                 {thesis.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2">Thesis/Dissertation:</h4>
+                    <h4 className="font-semibold mt-2 text-gray-500">
+                      Thesis/Dissertation:
+                    </h4>
                     <ul className="list-disc ml-5 mb-2">
                       {thesis.map((item, i) => (
                         <li key={`rc-${i}`}>{item}</li>
@@ -217,7 +224,7 @@ const StaffPage: React.FC = () => {
 
                 {published.length > 0 && (
                   <>
-                    <h4 className="font-semibold mt-2">
+                    <h4 className="font-semibold mt-2 text-gray-500">
                       Published Journal Articles:
                     </h4>
                     <ul className="list-disc ml-5">
@@ -233,7 +240,7 @@ const StaffPage: React.FC = () => {
 
           {staff.professionalBodies && staff.professionalBodies.length > 0 && (
             <AccordionItem value="professionalBodies">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Professional Bodies
               </AccordionTrigger>
               <AccordionContent>
@@ -248,7 +255,7 @@ const StaffPage: React.FC = () => {
 
           {staff.conferences && staff.conferences.length > 0 && (
             <AccordionItem value="confrences">
-              <AccordionTrigger className="cursor-pointer text-lg font-bold">
+              <AccordionTrigger className="cursor-pointer text-lg font-bold text-gray-500">
                 Conferences Attended
               </AccordionTrigger>
               <AccordionContent>

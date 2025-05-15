@@ -2,10 +2,10 @@
   {
     "id": 0,
     "img": "/leader.png",
-    "name": "Odule TJ.",
+    "name": "Odeneye TJ.",
     "position": "Dean",
-    "email": "tola.odule@oouagoiwoye.edu.ng",
-    "bio": "Expert in organic chemistry with 20+ years of experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "email": "ire.odeneye@oouagoiwoye.edu.ng",
+    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "phone": "+234 81 4189 8014",
     "departmentId": "computer-science",
     "education": [
@@ -129,7 +129,8 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "Expert in organic chemistry with 20+ years of experience."
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "computer-science"
   },
   {
     "id": 9,
@@ -201,7 +202,7 @@
     "position": "Lecturer",
     "email": "odule@univ.edu",
     "bio": "Expert in organic chemistry with 20+ years of experience.",
-    "departmentId": "computer-science"
+    "departmentId": "chemical-science"
   },
   {
     "id": 17,
@@ -210,6 +211,24 @@
     "position": "Lecturer",
     "email": "odule@univ.edu",
     "bio": "Expert in organic chemistry with 20+ years of experience.",
-    "departmentId": "computer-science"
+    "departmentId": "chemical-science"
+  },
+  {
+    "id": 18,
+    "img": "/leader.png",
+    "name": "Dr. Newton N.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "chemical-science"
+  },
+  {
+    "id": 19,
+    "img": "/leader.png",
+    "name": "Dr. Iremide O.",
+    "position": "Lecturer",
+    "email": "odule@univ.edu",
+    "bio": "Expert in organic chemistry with 20+ years of experience.",
+    "departmentId": "chemical-science"
   }
 ]

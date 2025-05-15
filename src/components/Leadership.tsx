@@ -1,17 +1,24 @@
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { slugify } from "@/utils/slugify";
 
-const staffs = [
-  { id: 0, img: "/leader.png", name: "Odule TJ.", position: "Dean" },
-  { id: 1, img: "/leader.png", name: "Dr. Mubarak K..", position: "HOD" },
-  { id: 2, img: "/leader.png", name: "Dr. Iremide O.", position: "Lecturer" },
-  { id: 3, img: "/leader.png", name: "Dr. Adepeju A", position: "Lecturer" },
-  { id: 4, img: "/leader.png", name: "Dr. Newton N.", position: "Lecturer" },
-  { id: 5, img: "/leader.png", name: "Dr. Mubarak K..", position: "HOD" },
-  { id: 6, img: "/leader.png", name: "Dr. Iremide O.", position: "Lecturer" },
-  { id: 7, img: "/leader.png", name: "Dr. Adepeju A", position: "Lecturer" },
-];
+interface Staff {
+  id: number;
+  img: string;
+  name: string;
+  position: string;
+}
 
 const Leadership = () => {
+  const [staffs, setStaffs] = useState<Staff[]>([]);
+
+  useEffect(() => {
+    fetch("/data/staffs.json")
+      .then((res) => res.json())
+      .then((data: Staff[]) => setStaffs(data.slice(0, 8)))
+      .catch((err) => console.error("Failed to fetch leadership staff:", err));
+  }, []);
+
   return (
     <section>
       <div className="my-40 text-[#21234F] saira">
@@ -20,7 +27,7 @@ const Leadership = () => {
         <div className="mt-20">
           <ul className="flex flex-row flex-wrap justify-between gap-5">
             {staffs.map((staff) => (
-              <Link to={`/staffs/${staff.name}`}>
+              <Link to={`/staffs/${slugify(staff.name)}`} key={staff.id}>
                 <li className="mb-10 hover:underline">
                   <div className="rounded-md w-[19rem]">
                     <div className="relative">
