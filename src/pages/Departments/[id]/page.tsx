@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Hero from "@/components/Hero";
 import { slugify } from "@/utils/slugify";
+import About from "@/components/About";
 
 const departmentData = {
   "chemical-science": {
@@ -93,6 +94,17 @@ const Department: React.FC = () => {
     <>
       <Hero title={formattedTitle} details={"(Department)"} />
       <div className="container mx-auto p-4">
+        <About
+                  title={"About the Department"}
+                  details={
+                    "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for thecountry in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS)."
+                  }
+                  title2={"Vision"}
+                  details2={
+                    "To be the foremost college known for development of world-class human and materials in the fields of sciences."
+                  }
+                />
+
         <div className="my-40 saira">
           <h1 className="text-3xl font-semibold text-center">Staff</h1>
           <div className="mt-20 flex justify-between">
