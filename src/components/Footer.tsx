@@ -3,6 +3,7 @@ import { IoLogoFacebook } from "react-icons/io";
 import { FaInstagram } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -20,10 +21,18 @@ const Footer = () => {
             </div>
 
             <ul className="flex flex-col justify-between gap-2 ml-2 mt-5">
-              <li>Home</li>
-              <li>Departments</li>
-              <li>Staffs</li>
-              <li>Contacts</li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/">Home</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/departments">Departments</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/staffs">Staffs</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/contacts">Contacts</Link>
+              </li>
             </ul>
           </div>
 
