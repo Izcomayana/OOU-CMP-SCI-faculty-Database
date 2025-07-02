@@ -13,7 +13,7 @@ import { Toaster } from "@/components/ui/sonner";
 function App() {
   return (
     <>
-      <div className="hidden scrollbar lg:block">
+      <div className="scrollbar">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -27,8 +27,6 @@ function App() {
         <Footer />
         <Toaster />
       </div>
-
-      <div className="block lg:hidden">mobile and tab not ready yet</div>
     </>
   );
 }
