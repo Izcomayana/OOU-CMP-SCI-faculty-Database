@@ -9,7 +9,7 @@ function Home() {
       <Hero
         title={
           <>
-            Faculty <br /> of Science
+            Faculty <br className="hidden lg:block"/> of Science
           </>
         }
         details={"(Ago-Iwoye)"}

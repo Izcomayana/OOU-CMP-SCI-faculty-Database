@@ -6,7 +6,7 @@ import Staff from "./pages/Staffs/[name]/page";
 import DepartmentsPage from "./pages/Departments";
 import Department from "./pages/Departments/[id]/page";
 import NotFound from "./pages/NotFound";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import Header from "./components/Header";
 import { Toaster } from "@/components/ui/sonner";
 
@@ -24,7 +24,7 @@ function App() {
           <Route path="/staffs/:staffName" element={<Staff />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
         <Toaster />
       </div>
     </>

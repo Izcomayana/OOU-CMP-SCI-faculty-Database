@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <header>
-      <div className="bg-[#000117] text-white container px-4 lg:px-0">
+      <div className="bg-[#000117] text-white px-4 lg:px-0">
         <div className="container mx-auto py-3">
           <div className="flex justify-between items-center">
             <Link to="/">
