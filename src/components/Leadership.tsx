@@ -21,15 +21,15 @@ const Leadership = () => {
 
   return (
     <section>
-      <div className="my-40 text-[#21234F] saira">
+      <div className="my-40 text-[#21234F] container mx-auto saira px-4 lg:px-0">
         <h1 className="text-3xl font-bold text-center">Faculty Leadership</h1>
 
-        <div className="mt-20">
+        <div className="mt-12 lg:mt-20">
           <ul className="flex flex-row flex-wrap justify-between gap-5">
             {staffs.map((staff) => (
-              <Link to={`/staffs/${slugify(staff.name)}`} key={staff.id}>
+              <Link to={`/staffs/${slugify(staff.name)}`} key={staff.id} className="w-full flex justify-center lg:w-fit">
                 <li className="mb-10 hover:underline">
-                  <div className="rounded-md w-[19rem]">
+                  <div className="rounded-md w-full md:w-[19rem]">
                     <div className="relative">
                       <img
                         src={staff.img}

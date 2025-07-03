@@ -3,12 +3,13 @@ import { IoLogoFacebook } from "react-icons/io";
 import { FaInstagram } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
     <footer>
       <div className="bg-[#21234F] saira">
-        <div className="container mx-auto py-20 flex justify-between text-white">
+        <div className="container mx-auto py-20 px-4 flex flex-col justify-between text-white gap-8 lg:gap-0 lg:px-0 lg:flex-row">
           <div className="">
             <div className="flex items-center">
               <div className="w-16">
@@ -20,10 +21,18 @@ const Footer = () => {
             </div>
 
             <ul className="flex flex-col justify-between gap-2 ml-2 mt-5">
-              <li>Home</li>
-              <li>Departments</li>
-              <li>Staffs</li>
-              <li>Contacts</li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/">Home</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/departments">Departments</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/staffs">Staffs</Link>
+              </li>
+              <li className="transition hover:text-[#bfc2f2]">
+                <Link to="/contacts">Contacts</Link>
+              </li>
             </ul>
           </div>
 

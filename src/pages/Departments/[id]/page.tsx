@@ -67,7 +67,7 @@ const Department: React.FC = () => {
       .then((data) => {
         const filtered = data.filter(
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          (staff: any) => staff.departmentId === departmentId,
+          (staff: any) => staff.departmentId === departmentId
         );
         setStaffs(filtered);
       })
@@ -95,19 +95,19 @@ const Department: React.FC = () => {
       <Hero title={formattedTitle} details={"(Department)"} />
       <div className="container mx-auto p-4">
         <About
-                  title={"About the Department"}
-                  details={
-                    "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for thecountry in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS)."
-                  }
-                  title2={"Vision"}
-                  details2={
-                    "To be the foremost college known for development of world-class human and materials in the fields of sciences."
-                  }
-                />
+          title={"About the Department"}
+          details={
+            "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for thecountry in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS)."
+          }
+          title2={"Vision"}
+          details2={
+            "To be the foremost college known for development of world-class human and materials in the fields of sciences."
+          }
+        />
 
         <div className="my-40 saira">
           <h1 className="text-3xl font-semibold text-center">Staff</h1>
-          <div className="mt-20 flex justify-between">
+          <div className="mt-12 flex flex-col gap-8 justify-between lg:gap-0 lg:mt-20 lg:flex-row">
             {/* Column 1: HOD */}
             <div>
               {staffs.length > 0 && (
@@ -115,7 +115,7 @@ const Department: React.FC = () => {
                   to={`/staffs/${slugify(staffs[0].name)}`}
                   className="hover:underline"
                 >
-                  <div className="rounded-md w-[19rem]">
+                  <div className="rounded-md w-full lg:w-[19rem]">
                     <div className="relative">
                       <img
                         src={staffs[0].img}
@@ -135,7 +135,7 @@ const Department: React.FC = () => {
 
             {/* Column 2 and 3: Rest */}
             {[0, 1].map((col) => (
-              <div className="flex flex-col gap-5 w-1/3" key={col}>
+              <div className="flex flex-col gap-5 w-full lg:w-1/3" key={col}>
                 {staffs
                   .slice(1)
                   .filter((_, i) => i % 2 === col)
@@ -152,9 +152,9 @@ const Department: React.FC = () => {
           </div>
         </div>
 
-        <div className="mb-40 saira">
+        <div className="mb-20 saira lg:mb-40">
           <h1 className="text-3xl font-semibold text-center">Facilities</h1>
-          <div className="mt-20 flex justify-between">
+          <div className="mt-12 flex flex-col justify-between gap-8 lg:gap-0 lg:mt-20 lg:flex-row">
             <div className="bg-white border rounded-md p-24 font-bold text-xl text-[#00000098] shadow-2xl">
               HALLS
             </div>

@@ -26,14 +26,14 @@ const Departments: React.FC = () => {
           </p>
         </div>
 
-        <div className="flex flex-row flex-wrap justify-between gap-5 mt-20 text-white">
+        <div className="flex flex-row flex-wrap justify-between gap-5 mt-12 text-white container mx-auto px-4 lg:px-0 lg:mt-20">
           {departments.map((dept) => (
-            <li key={dept.id}>
+            <li key={dept.id} className="w-full lg:w-fit">
               <Link
                 to={`/departments/${dept.id}`}
                 className="font-medium text-2xl"
               >
-                <div className="mb-10 relative w-[19rem] rounded-md overflow-hidden">
+                <div className="mb-10 relative w-full lg:w-[19rem] rounded-md overflow-hidden">
                   <div className="relative">
                     <img
                       src="/departments.png"

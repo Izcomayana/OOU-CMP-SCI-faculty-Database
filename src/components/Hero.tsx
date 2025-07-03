@@ -9,13 +9,13 @@ const Hero: React.FC<HeroProps> = ({ title, details }) => {
   return (
     <section>
       <div className="bg-[#21234F] my-40">
-        <div className="container mx-auto flex justify-between items-center pt-16 pb-36 relative">
-          <div className="text-white saira">
-            <p className="text-5xl font-semibold leading-16">{title}</p>
-            <p className="text-xl">{details}</p>
+        <div className="container mx-auto flex flex-col justify-between items-center pt-16 pb-36 relative lg:flex-row">
+          <div className="text-white text-center saira mb-5 md:mb-10 lg:mb-0">
+            <p className="text-3xl font-semibold leading-8 mb-3 lg:mb-0 lg:leading-16 lg:text-5xl">{title}</p>
+            <p className="text-base lg:text-xl">{details}</p>
           </div>
 
-          <div className="absolute right-0 top-[-3.5rem]">
+          <div className="right-0 top-[-3.5rem] lg:absolute">
             <img
               src="/faculty.png"
               alt="faculty-of-science"

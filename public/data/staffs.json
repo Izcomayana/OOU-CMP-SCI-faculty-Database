@@ -5,7 +5,15 @@
     "name": "Dr. Iremide O.",
     "position": "Dean",
     "email": "ire.odeneye@oouagoiwoye.edu.ng",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of spouse": "Mrs. Mary Odeneye",
+      "No. of Children/Ages": "3(22, 20, 18)"
+    },
     "phone": "+234 81 4189 8014",
     "departmentId": "chemical-science",
     "education": [
@@ -36,19 +44,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -66,7 +74,7 @@
       "Women in Data Science Conference, OOU, June 2018",
       "Early Career Researchers Summit, OOU, July 2019"
     ]
-  },  
+  },
   {
     "id": 1,
     "img": "/leader.png",
@@ -74,7 +82,15 @@
     "departmentId": "chemical-science",
     "position": "HOD",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -103,19 +119,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -141,7 +157,15 @@
     "departmentId": "chemical-science",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -170,19 +194,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -208,7 +232,15 @@
     "departmentId": "chemical-science",
     "position": "Lecturer",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -237,19 +269,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -275,7 +307,15 @@
     "departmentId": "chemical-science",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -304,19 +344,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -342,7 +382,15 @@
     "departmentId": "computer-science",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -371,19 +419,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -409,7 +457,15 @@
     "departmentId": "computer-science",
     "position": "Lecturer",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -438,19 +494,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -476,7 +532,15 @@
     "departmentId": "computer-science",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -505,19 +569,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -543,7 +607,15 @@
     "departmentId": "computer-science",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -572,19 +644,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -610,7 +682,15 @@
     "departmentId": "computer-science",
     "position": "Dean",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -639,19 +719,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -677,7 +757,15 @@
     "departmentId": "computer-science",
     "position": "HOD",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -706,19 +794,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -743,8 +831,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "geology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -773,19 +869,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -810,8 +906,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "geology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -840,19 +944,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -877,9 +981,17 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "geology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -907,19 +1019,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -944,9 +1056,17 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "geology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -974,19 +1094,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1011,9 +1131,17 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "mubarak.k@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "geology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1041,19 +1169,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1078,9 +1206,17 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1108,19 +1244,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1145,9 +1281,17 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1175,19 +1319,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1212,9 +1356,17 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1242,19 +1394,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1279,9 +1431,17 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1309,19 +1469,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1346,9 +1506,17 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1376,19 +1544,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1413,9 +1581,17 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "mathematics",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1443,19 +1619,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1480,9 +1656,17 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "microbiology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1510,19 +1694,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1547,9 +1731,17 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "microbiology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1577,19 +1769,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1614,9 +1806,17 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "microbiology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1644,19 +1844,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1681,9 +1881,17 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "microbiology",
-        "education": [
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -1711,19 +1919,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1748,8 +1956,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "microbiology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -1778,19 +1994,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1815,8 +2031,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -1845,19 +2069,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1882,8 +2106,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -1912,19 +2144,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -1949,8 +2181,16 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -1979,19 +2219,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2016,8 +2256,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2046,19 +2294,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2083,8 +2331,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2113,19 +2369,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2150,8 +2406,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "plant-science",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2180,19 +2444,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2217,8 +2481,16 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "physics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2247,19 +2519,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2284,8 +2556,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "physics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2314,19 +2594,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2351,8 +2631,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "physics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2381,19 +2669,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2418,8 +2706,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "physics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2448,19 +2744,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2485,8 +2781,16 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "physics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2515,19 +2819,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2552,8 +2856,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2582,19 +2894,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2619,8 +2931,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2649,19 +2969,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2686,8 +3006,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2716,19 +3044,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2746,15 +3074,24 @@
       "Women in Data Science Conference, OOU, June 2018",
       "Early Career Researchers Summit, OOU, July 2019"
     ]
-  },  
+  },
   {
     "id": 41,
     "img": "/leader.png",
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
-    "departmentId": "statistics",    "education": [
+    "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
+    "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
       "M.Sc. Computer Science (2005)",
@@ -2782,19 +3119,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2819,8 +3156,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2849,19 +3194,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2886,8 +3231,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "statistics",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2916,19 +3269,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -2953,8 +3306,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "zoology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -2983,19 +3344,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -3020,8 +3381,16 @@
     "name": "Dr. Mubarak K.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "zoology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -3050,19 +3419,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -3087,8 +3456,16 @@
     "name": "Dr. Adepeju A",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "zoology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -3117,19 +3494,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -3154,8 +3531,16 @@
     "name": "Dr. Newton N.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "zoology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -3184,19 +3569,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [
@@ -3221,8 +3606,16 @@
     "name": "Dr. Iremide O.",
     "position": "Lecturer",
     "email": "odule@univ.edu",
-    "bio": "The Faculty of Science is among the pioneering Faculties in the University, established in January 1983, with the central objective being the production of scientific and technological manpower for the country in general and Ogun State in particular. The faculty was established to disseminate, promote, and advance the growth of scientific knowledge in the University and to explore the use of this knowledge for the study and exploitation of the country’s natural resources for the advancement of the citizenry. The first set of students admitted to the faculty – 71, commenced their courses at the temporary site, now commonly referred to as Mini Campus. Presently, the Faculty is located at the permanent site (PS).",
     "departmentId": "zoology",
+    "bioData": {
+      "Age": "42 years",
+      "Date of Birth": "22-01-69",
+      "Place of Birth": "Ago-Ijebu, Ogun state",
+      "Nationality": "Nigerian",
+      "Marital Status": "Married",
+      "Name of Spouse": "Mrs. Mary Odeneye",
+      "Children": "3 (22, 20, 18)"
+    },
     "education": [
       "Diploma Data Processing (1991)",
       "B.Sc. Computer Science (1997)",
@@ -3251,19 +3644,19 @@
     "publications": {
       "thesis": [
         "ODULE, T. J. (2013). Ph.D. Thesis: A Modular Arithmetic-based Threshold Cryptography for Secure Multi-party Signature Schemes.",
-      "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
+        "ODULE, T. J. (2005). M.Sc. Thesis: Implementing Data Communication Security Through Public-key Cryptosystem and Digital Signature."
       ],
       "published": [
         "Contemporary Implementation of Compilers Using Object-oriented Language Formalisms. ABACUS, 34 (2A), 39-51.",
-      "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
-      "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
-      "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
-      "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
-      "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
-      "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
-      "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
-      "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
-      "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
+        "Incremental Cryptography and Security of Public Hash Functions. JNAMP, 11, 467-474.",
+        "Improving access, reliability and efficiency of a distributed OS using replicated distributed object abstraction. JNAMP, 11, 475-484.",
+        "Adaptive Update Algorithm for Collision-free hash-and-sign Signature Schemes. Int. J. Physical Science, 3(1), 81-87.",
+        "Universal hash proof system and the subset membership problem. JNAMP, 12, 485-494.",
+        "Provably-secure public-key encryption scheme. JNAMP, 12, 495-504.",
+        "Design and Analysis of a Non-deterministic Digital Signature Protocol. IJSIA, 6(4), 119-130.",
+        "Dynamically Self-Adjusting Cache Replacement Algorithm. IJFGCN, 6(1), 25-34.",
+        "Modular Arithmetic-based Encryption Scheme. IJSIA, 9(11), 293-302.",
+        "Construction of a Cryptographic Group-theoretic Language. AIMS Research, 3(4), 105-114."
       ]
     },
     "professionalBodies": [

@@ -14,7 +14,9 @@ interface Staff {
   img: string;
   position: string;
   email?: string;
-  bio?: string;
+  bioData?: {
+    [key: string]: string;
+  };
   departmentId: string;
   phone: string;
   education?: string[];
@@ -41,7 +43,7 @@ const StaffPage: React.FC = () => {
       .then((res) => res.json())
       .then((data: Staff[]) => {
         const found = data.find(
-          (s) => slugify(s.name) === slugify(staffName || ""),
+          (s) => slugify(s.name) === slugify(staffName || "")
         );
         setStaff(found || null);
       })
@@ -63,9 +65,9 @@ const StaffPage: React.FC = () => {
 
   return (
     <>
-      <div className="container mx-auto my-20 px-4 saira">
-        <div className="flex justify-between items-center gap-16">
-          <div className="flex flex-col justify-between">
+      <div className="container mx-auto my-12 px-4 saira lg:my-20">
+        <div className="flex flex-col justify-between items-center gap-16 lg:flex-row">
+          <div className="flex flex-col justify-between items-center w-full">
             <div className="w-70 h-80 rounded-sm">
               <img
                 src={staff.img}
@@ -85,9 +87,17 @@ const StaffPage: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex flex-col justify-between gap-10">
-            <h2 className="text-lg font-bold text-[#21234F]">Profile</h2>
-            <p className="leading-8">{staff.bio}</p>
+          <div className="flex flex-col justify-between gap-10 w-full">
+            <h2 className="text-lg font-bold text-[#21234F]">Bio Data</h2>
+            {staff.bioData && (
+              <ul className="leading-8 text-base space-y-1">
+                {Object.entries(staff.bioData).map(([key, value], index) => (
+                  <li key={index}>
+                    <strong>{key}:</strong> {value}
+                  </li>
+                ))}
+              </ul>
+            )}
             <div className="w-70 flex justify-between gap-4">
               <div className="bg-[#21234F] rounded-full w-12 h-12 text-center flex justify-center items-center">
                 <svg
