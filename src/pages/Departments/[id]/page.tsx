@@ -4,50 +4,20 @@ import { useParams } from "react-router-dom";
 import Hero from "@/components/Hero";
 import { slugify } from "@/utils/slugify";
 import About from "@/components/About";
+import { departmentsData } from "@/components/Departments";
 
-const departmentData = {
-  "chemical-science": {
-    name: "Chemical Science",
-    description: "Learn about chemical science.",
-  },
-  "computer-science": {
-    name: "Computer Science",
-    description: "Learn about algorithms, AI, and software development.",
-  },
-  geology: {
-    name: "Geology",
-    description: "tudy geology.",
-  },
-  mathematics: {
-    name: "Mathematics",
-    description: "Explore calculus, algebra, and number theory.",
-  },
-  microbiology: {
-    name: "Microbiology",
-    description: "Study microbiology.",
-  },
-  physics: {
-    name: "Physics",
-    description: "Study the laws of nature and quantum mechanics.",
-  },
-  "plant-science": {
-    name: "Plant Science",
-    description: "Study Plant science.",
-  },
-  statistics: {
-    name: "Statistics",
-    description: "Study the laws of Statistics.",
-  },
-  zoology: {
-    name: "Zoology",
-    description: "Study zoology.",
-  },
-};
+interface Department {
+  id: string;
+  name: string;
+  img: string;
+  description: string;
+}
+
+const departmentData: Department[] = departmentsData;
 
 const Department: React.FC = () => {
   const { departmentId } = useParams<{ departmentId: string }>();
-  const department =
-    departmentData[departmentId as keyof typeof departmentData];
+  const department = departmentData.find((d) => d.id === departmentId);
 
   const [staffs, setStaffs] = useState<
     {
@@ -92,7 +62,8 @@ const Department: React.FC = () => {
 
   return (
     <>
-      <Hero title={formattedTitle} details={"(Department)"} />
+      <Hero title={formattedTitle} details="(Department)" img={department?.img || ""} />
+
       <div className="container mx-auto p-4">
         <About
           title={"About the Department"}

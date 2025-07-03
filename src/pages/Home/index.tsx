@@ -13,6 +13,7 @@ function Home() {
           </>
         }
         details={"(Ago-Iwoye)"}
+        img={"/faculty.png"}
       />
 
       <div className="container mx-auto">

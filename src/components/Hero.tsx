@@ -3,9 +3,10 @@ import React, { ReactNode } from "react";
 interface HeroProps {
   title: ReactNode;
   details: string;
+  img: string;
 }
 
-const Hero: React.FC<HeroProps> = ({ title, details }) => {
+const Hero: React.FC<HeroProps> = ({ title, details, img }) => {
   return (
     <section>
       <div className="bg-[#21234F] my-40">
@@ -15,11 +16,11 @@ const Hero: React.FC<HeroProps> = ({ title, details }) => {
             <p className="text-base lg:text-xl">{details}</p>
           </div>
 
-          <div className="right-0 top-[-3.5rem] lg:absolute">
+          <div className="right-0 top-[-3.5rem] w-full h-[140%] md:w-[60%] lg:absolute">
             <img
-              src="/faculty.png"
+              src={img}
               alt="faculty-of-science"
-              className="w-full"
+              className="w-full h-full object-cover"
             />
           </div>
         </div>
