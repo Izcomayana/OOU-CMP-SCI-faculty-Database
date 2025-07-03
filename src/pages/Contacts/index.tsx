@@ -51,7 +51,7 @@ const Contacts = () => {
 
   return (
     <section>
-      <div className="container mx-auto py-20">
+      <div className="container mx-auto py-20 px-4 lg:px-0">
         <div className="text-center">
           <h1 className="font-bold text-2xl text-[#21234F]">Contact Us</h1>
           <p className="mt-5">
@@ -60,8 +60,8 @@ const Contacts = () => {
           </p>
         </div>
 
-        <div className="flex justify-between my-16">
-          <div className="flex flex-col justify-between gap-5 w-[47.5%]">
+        <div className="flex flex-col justify-between my-16 gap-10 lg:gap-0 lg:flex-row">
+          <div className="flex flex-col justify-between gap-5 w-full lg:w-[47.5%]">
             <h2 className="text-2xl font-bold mb-5">Direct Your Message</h2>
 
             {["ICT Centre", "Faculty Office", "ICT Centre", "Faculty Office"].map((label, idx) => (
@@ -75,7 +75,7 @@ const Contacts = () => {
             ))}
           </div>
 
-          <div className="w-[47.5%] border border-gray-400 p-4 rounded-sm">
+          <div className="w-full lg:w-[47.5%] border border-gray-400 p-4 rounded-sm">
             <h2 className="font-bold text-xl text-[#21234F]">Send a message</h2>
             <Form {...form}>
               <form
