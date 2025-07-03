@@ -27,14 +27,14 @@ const Leadership = () => {
         <div className="mt-12 lg:mt-20">
           <ul className="flex flex-row flex-wrap justify-between gap-5">
             {staffs.map((staff) => (
-              <Link to={`/staffs/${slugify(staff.name)}`} key={staff.id} className="w-full flex justify-center lg:w-fit">
-                <li className="mb-10 hover:underline">
-                  <div className="rounded-md w-full md:w-[19rem]">
-                    <div className="relative">
+              <Link to={`/staffs/${slugify(staff.name)}`} key={staff.id} className="w-full flex justify-center md:w-fit">
+                <li className="mb-10 hover:underline w-full md:w-fit">
+                  <div className="rounded-md w-full md:w-fit">
+                    <div className="relative w-full h-[22.5rem] md:w-[19rem]">
                       <img
                         src={staff.img}
                         alt={staff.name}
-                        className="w-full"
+                        className="w-full h-full object-cover"
                       />
                       <div className="absolute inset-0 bg-black opacity-10 transition-all hover:opacity-40"></div>
                     </div>
